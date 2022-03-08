@@ -1,5 +1,6 @@
 .container {
   background-color: white;
+  margin:0 auto;
 }
 .mb-4 {
   text-align: center;
