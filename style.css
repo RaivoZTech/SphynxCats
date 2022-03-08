@@ -1,0 +1,14 @@
+.container {
+  background-color: white;
+}
+.mb-4 {
+  text-align: center;
+  color: lightslategrey;
+  padding: 1px grey solid;
+}
+h1 {
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  color: lightslategrey;
+}
